@@ -1,5 +1,7 @@
 Here is a simple dummy text file.
-It has a few lines of code.
+
+I made a few changes at the top.
+Here are a few more lines.
 
 
 print('Hello World')
