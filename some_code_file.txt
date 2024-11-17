@@ -1,0 +1,23 @@
+Here is a simple dummy text file.
+
+I made a few changes at the top.
+Here are a few more lines.
+
+
+print('Hello World')
+
+x = 10
+y = 20
+z = x + y
+
+
+def sum_two_digits(first_digit = 0, second_digit = 0):
+    sum_two = first_digit + second_digit)
+    return sum_two
+
+# for instructors only (delete this from file version for students)
+# add the following function
+
+def def sum_two_digits(first_digit = 0, second_digit = 0, third_digit = 0):
+    sum_three = first_digit + second_digit = third_digit)
+    return sum_three
